@@ -21,7 +21,7 @@ Ce portfolio est une vitrine de mes travaux et de mon expertise dans le dévelop
 - CSS
 - HTML
 - JavaScript
-- Et plus...
+- React
 
 ## 📫 Contactez-moi
 
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via les liens présents dans le portfolio pour to
 
 ---
 
-*Dernier mise à jour : 2026-06-16*
+Dernier mise à jour : 2026-06-16*
